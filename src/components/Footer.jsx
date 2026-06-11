@@ -140,7 +140,7 @@ function Footer() {
           <p className="text-gray-400 mt-2">
   Developed by{" "}
   <a
-    href="https://theprateekdev.in"
+    href="https://prateekdev.in"
     target="_blank"
     rel="noopener noreferrer"
     className="text-orange-500 font-semibold hover:text-orange-400 transition"
